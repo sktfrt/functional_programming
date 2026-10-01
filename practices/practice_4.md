@@ -163,4 +163,3 @@ gchi> :l file.hs
 ```
 
 `NoMonomorfismRestriction` - флаг, чтоб типы нормально ставились  
-
