@@ -7,6 +7,8 @@
 - [lecture 3](/lectures/lecture_3.md)
 - [lecture 4](/lectures/lecture_4.md)
 - [lecture 5](/lectures/lecture_5.md)
+- [lecture 6](/lectures/lecture_6.md)
+- [lecture 7](/lectures/lecture_7.md)
 
 ## Практики
 
