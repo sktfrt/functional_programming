@@ -17,3 +17,6 @@
 - [practice 3](/practices/practice_3.md)
 - [practice 4 .md](/practices/practice_4.md), [practice 4 .hs](/practices/practice_4.hs)
 - [practice 5 .md](/practices/practice_5.md), [practice 5 .hs](/practices/practice_5.hs)
+- [practice 6 .md](/practices/practice_6.md), [practice 6 .hs](/practices/practice_6.hs)
+- [practice 7 .md](/practices/practice_7.md), [practice 7 .hs](/practices/practice_7.hs)
+
