@@ -41,7 +41,7 @@ instance Eq a => Eq [a] where
 class Eq a where
     x /= y = not (x == y)
     x == y = not (x /= y)
-    { -# MINIMAL (==) | (/=) #- } -- указываем,ч то хотя бы нужно реализовать
+    {-# MINIMAL (==) | (/=) #-} -- указываем,ч то хотя бы нужно реализовать
 ```
 
 ---
@@ -78,23 +78,23 @@ instance Functor Maybe where
     fmap f (Just a) = Just (f a)
 ```
 
-### представители - сироты 
+### представители - сироты
 
 путь в `T.hs` лежит `data T ..`, в `C.hs` лежит `class C ..`, куда пихать `instance CT`?  
 если запихнуть в отдельный файл, то получается сирота  
 а если подключить два файла с модулем, то получим конфликт  
 давать имена нельзя, значит сиротиливость запрещена  
 
-### 
+### еще про волшебные {-# #-}
 
 Расщирение `GeneralizedNewtypeDeriving` - повзоляет генерировать предсатвителя клсса типов Num  
 
 ```hs
-{ -# LANGUAGE GeneralizedNewtypeDeriving #- }
+{-# LANGUAGE GeneralizedNewtypeDeriving #-}
 newtype Temperature = Temperature { getTemp :: Double }
     deriving (Num, Eq, Show)
 
-{ -# LANGUAGE DerivingLanguage #- }
+{-# LANGUAGE DerivingLanguage #-}
 ```
 
 ### фантомные типы

@@ -9,6 +9,9 @@
 - [lecture 5](/lectures/lecture_5.md)
 - [lecture 6](/lectures/lecture_6.md)
 - [lecture 7](/lectures/lecture_7.md)
+- [lecture 8](/lectures/lecture_8.md)
+- [lecture 9](/lectures/lecture_9.md)
+- [lecture 10](/lectures/lecture_10.md)
 
 ## Практики
 
@@ -19,4 +22,5 @@
 - [practice 5 .md](/practices/practice_5.md), [practice 5 .hs](/practices/practice_5.hs)
 - [practice 6 .md](/practices/practice_6.md), [practice 6 .hs](/practices/practice_6.hs)
 - [practice 7 .md](/practices/practice_7.md), [practice 7 .hs](/practices/practice_7.hs)
-
+- [practice 8 .md](/practices/practice_8.md), [practice 8 .hs](/practices/practice_8.hs)
+- [practice 9 .md](/practices/practice_9.md), [practice 8 .hs](/practices/practice_9.hs)
