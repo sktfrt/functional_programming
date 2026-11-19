@@ -12,6 +12,8 @@
 - [lecture 8](/lectures/lecture_8.md)
 - [lecture 9](/lectures/lecture_9.md)
 - [lecture 10](/lectures/lecture_10.md)
+- [lecture 11](/lectures/lecture_11.md)
+- [lecture 12](/lectures/lecture_12.md)
 
 ## Практики
 
@@ -23,4 +25,7 @@
 - [practice 6 .md](/practices/practice_6.md), [practice 6 .hs](/practices/practice_6.hs)
 - [practice 7 .md](/practices/practice_7.md), [practice 7 .hs](/practices/practice_7.hs)
 - [practice 8 .md](/practices/practice_8.md), [practice 8 .hs](/practices/practice_8.hs)
-- [practice 9 .md](/practices/practice_9.md), [practice 8 .hs](/practices/practice_9.hs)
+- [practice 9 .md](/practices/practice_9.md), [practice 9 .hs](/practices/practice_9.hs)
+- [practice 10 .md](/practices/practice_10.md), [practice 10 .hs](/practices/practice_10.hs)
+- [practice 11 .md](/practices/practice_11.md), [practice 11 .hs](/practices/practice_11.hs)
+- [practice 12 .md](/practices/practice_12.md), [practice 12 .hs](/practices/practice_12.hs)
